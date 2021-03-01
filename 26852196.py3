@@ -13,3 +13,11 @@ elif y1==y3: y4=y2
 elif y2==y3: y4=y1
 
 print(x4, y4)
+
+
+# short coding
+#x=0; y=0
+#for _ in range(3):
+#	a,b = map(int, input().split())
+#	x ^= a; y ^= b
+# print(x, y)
